@@ -57,4 +57,4 @@ std::cout << "Thiago hopes you like the site !" << std::endl;
 Até mais !
 Feedbacks são sempre bem vindos !
 
-Fonte: https://github.com/SimplyCpp/examples/blob/master/hello.cpp
+Fonte: https://github.com/SimplyCpp/posts/blob/master/01_ola-mundo/hello.cpp
