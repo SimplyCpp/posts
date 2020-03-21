@@ -1,6 +1,6 @@
 # Medindo o tempo de seu código
 
-Uma das facilidades do padrão para o C++ moderno é a presença de construções que permitem a manipulação de data e tempo. Estes utilitários podem ser encontrados na biblioteca **chrono**, como você poderá conferir em algumas referências e documentações que se encontram disponíveis, como por exemplo, as minhas favoritas: [Documentação do Visual C++](https://docs.microsoft.com/en-us/cpp/standard-library/chrono?redirectedfrom=MSDN&view=vs-2019), Cplusplus.com e Cppreference.com.
+Uma das facilidades do padrão para o C++ moderno é a presença de construções que permitem a manipulação de data e tempo. Estes utilitários podem ser encontrados na biblioteca **chrono**, como você poderá conferir em algumas referências e documentações que se encontram disponíveis, como por exemplo, as minhas favoritas: [Documentação do Visual C++](https://docs.microsoft.com/en-us/cpp/standard-library/chrono?redirectedfrom=MSDN&view=vs-2019), [Cplusplus.com](http://cplusplus.com/) e [Cppreference.com](https://en.cppreference.com/w/).
 
 Neste post, vamos focar somente nos utilitários de tempo. O que você pode fazer com eles? É possível saber, através de um de seus relógios (**system_clock**, **steady_clock**, **high_resolution_clock**), sobre um determinado ponto de referência no tempo, como por exemplo, o “agora” através da função estática **now**.
 
