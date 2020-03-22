@@ -1,3 +1,5 @@
+# Tamanho e alinhamento
+
 Uma coisa que eu gosto bastante no C++ e que poucas vezes é visto com o devido cuidado é a forma como a memória é alocada. Eu ouço constantemente o mantra: Hoje temos muita memória disponível, um pouco a mais não faz diferença.
 
 Opa, perai.
