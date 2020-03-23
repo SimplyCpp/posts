@@ -144,4 +144,4 @@ Eu pensei em falar em template instantiation neste post, mas isso é assunto par
 
 Até breve !
 
-Código: https://github.com/SimplyCpp/posts/blob/master/08_Tamanho_e_alinhamento/temp_gen.cpp
+Código: https://github.com/SimplyCpp/posts/blob/master/09_Templates_e_geracao_de_codigo/temp_gen.cpp

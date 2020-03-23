@@ -94,4 +94,4 @@ Já ouvi a pergunta:
 
 Esta resposta ficará para um próximo artigo.
 
-Código: https://github.com/SimplyCpp/posts/blob/master/08_Tamanho_e_alinhamento/range_for.cpp
+Código: https://github.com/SimplyCpp/posts/blob/master/10_Range_against_the_machine/range_for.cpp
