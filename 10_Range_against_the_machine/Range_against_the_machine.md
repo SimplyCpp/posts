@@ -90,7 +90,7 @@ for(auto &c : flow.getMonthlyFlow(2015, 03)) {
 Simples e prático.
 
 Já ouvi a pergunta:
- – Mas usar o iterador não torna o código mais lento ou consome mais memória ?
+– Mas usar o iterador não torna o código mais lento ou consome mais memória ?
 
 Esta resposta ficará para um próximo artigo.
 
