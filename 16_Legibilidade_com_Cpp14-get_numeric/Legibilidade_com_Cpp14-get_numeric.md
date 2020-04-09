@@ -135,7 +135,7 @@ Uma outra forma de implementar esse mesmo método seria usar o iterador com pred
 
 #### Fonte:
 
-- [numeric.cpp](https://github.com/SimplyCpp/posts/blob/master/16_Legibilidade_com_Cpp14_–_get_numeric/numeric.cpp)
+- [numeric.cpp](https://github.com/SimplyCpp/posts/blob/master/16_Legibilidade_com_Cpp14-get_numeric/numeric.cpp)
 
 #### Referências:
 
